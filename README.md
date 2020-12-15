@@ -5,4 +5,3 @@ Using basic knowledge of the java language, use of multithreads, and the use of 
 <br />
 ![alt tag](https://cdn.discordapp.com/attachments/366788132156342274/459212705262469130/unknown.png "Picture of the gui")
 <br />
-Still have improvements to make and error checkings to make
